@@ -53,6 +53,34 @@
       "title": "Vending Machines and New York State's Youth Access Tobacco Control Laws",
       "topic": "Operator guidance on permitted locations, direct supervision, registration stickers, vapor products, and the separate federal adult-only facility restriction",
       "url": "https://www.health.ny.gov/prevention/tobacco_control/vending_machine_guide.htm"
+    },
+    {
+      "jurisdiction": "Ohio",
+      "authority": "Ohio Laws and Administrative Rules",
+      "title": "Revised Code section 2927.02",
+      "topic": "Vending-machine placement pathways for cigarettes, other tobacco products, and alternative nicotine products, including observed-machine conditions and a required under-21 notice",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2927"
+    },
+    {
+      "jurisdiction": "Louisiana",
+      "authority": "Louisiana State Legislature",
+      "title": "Revised Statutes section 26:910",
+      "topic": "Vending-machine restriction for tobacco, alternative nicotine, and vapor products, with adult-only establishment and controlled-line-of-sight conditions",
+      "url": "https://www.legis.la.gov/Legis/Law.aspx?d=84849"
+    },
+    {
+      "jurisdiction": "Maine",
+      "authority": "Maine Legislature",
+      "title": "Title 22 section 1551 definitions",
+      "topic": "Definitions that include electronic smoking devices, components, and liquids within tobacco-product terminology",
+      "url": "https://legislature.maine.gov/legis/statutes/22/title22sec1551.html"
+    },
+    {
+      "jurisdiction": "Maine",
+      "authority": "Maine Legislature",
+      "title": "Title 22 section 1553-A sales of tobacco products; vending machines",
+      "topic": "Vending-machine location, machine-warning, and enforcement provisions for tobacco products, with current effective-date text to be verified before operation",
+      "url": "https://legislature.maine.gov/statutes/22/title22sec1553-A-1.html"
     }
   ],
   "updatePolicy": "Add an entry only after linking the directly applicable primary statute or government agency source. Recheck all entries when material changes are identified."
