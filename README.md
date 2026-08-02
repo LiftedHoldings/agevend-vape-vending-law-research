@@ -26,4 +26,3 @@ Each entry links to the issuing government source. The text on AgeVend.com expla
 This project deliberately avoids republishing a generic 50-state conclusion. A state card is included only after it has a directly linked primary statute or government agency source and a scoped description that avoids calling any placement legal.
 
 See [sources.json](sources.json) for structured source metadata.
-
