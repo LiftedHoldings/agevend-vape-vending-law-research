@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AgeVend vape vending law research sources",
+  "version": "2026-08-02",
+  "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
+  "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
+  "sources": [
+    {
+      "jurisdiction": "United States federal",
+      "authority": "U.S. Food and Drug Administration",
+      "title": "Tobacco 21",
+      "topic": "Retail age and vending-machine baseline for tobacco products, including e-cigarettes",
+      "url": "https://www.fda.gov/tobacco-products/retail-sales-tobacco-products/tobacco-21"
+    },
+    {
+      "jurisdiction": "California",
+      "authority": "California Legislative Information",
+      "title": "Business and Professions Code section 22960",
+      "topic": "State cigarette and tobacco-product vending-machine restrictions and local-standard provision",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=22960"
+    },
+    {
+      "jurisdiction": "Florida",
+      "authority": "Online Sunshine / Florida Legislature",
+      "title": "Florida Statutes section 569.37",
+      "topic": "Nicotine-product sale, vending-machine lockout, and adult-only establishment provisions",
+      "url": "https://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0569%2FSections%2F0569.37.html"
+    }
+  ],
+  "updatePolicy": "Add an entry only after linking the directly applicable primary statute or government agency source. Recheck all entries when material changes are identified."
+}
