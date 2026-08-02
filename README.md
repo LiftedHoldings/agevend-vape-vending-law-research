@@ -16,7 +16,7 @@ The manifest currently contains:
 - New York Public Health Law section 1399-dd and the New York State Department of Health vending-machine guide.
 - Ohio Revised Code section 2927.02.
 - Louisiana Revised Statutes section 26:910.
-- Maine Title 22 sections 1551 and 1553-A.
+- Maine Title 22 sections 1551 and 1551-A; the current effective license text does not permit retail tobacco-product sales through vending machines.
 - Illinois 720 ILCS 675/1.
 - Georgia Senate Bill 375's signed act, alongside the instruction to verify the current code and agency rules.
 - Colorado Revised Statutes Title 44, section 44-7-103.
