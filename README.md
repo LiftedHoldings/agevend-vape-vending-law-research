@@ -13,6 +13,7 @@ The manifest currently contains:
 - Florida Statutes section 569.37.
 - Arizona Revised Statutes section 36-798.02.
 - Texas Health and Safety Code section 161.086.
+- New York Public Health Law section 1399-dd and the New York State Department of Health vending-machine guide.
 
 Each entry links to the issuing government source. The text on AgeVend.com explains why a state provision cannot be read as a substitute for the federal baseline or a local review.
 
