@@ -39,6 +39,20 @@
       "title": "Health and Safety Code section 161.086",
       "topic": "Vending-machine restrictions for cigarettes, e-cigarettes, and tobacco products, with specified adult-only premises exceptions",
       "url": "https://statutes.capitol.texas.gov/docs/hs/pdf/hs.161.pdf"
+    },
+    {
+      "jurisdiction": "New York",
+      "authority": "New York State Senate",
+      "title": "Public Health Law section 1399-dd",
+      "topic": "Permitted locations for vending machines that dispense tobacco products, herbal cigarettes, or electronic cigarettes, including a direct-supervision condition for certain nonpublic workplaces",
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/1399-DD"
+    },
+    {
+      "jurisdiction": "New York",
+      "authority": "New York State Department of Health",
+      "title": "Vending Machines and New York State's Youth Access Tobacco Control Laws",
+      "topic": "Operator guidance on permitted locations, direct supervision, registration stickers, vapor products, and the separate federal adult-only facility restriction",
+      "url": "https://www.health.ny.gov/prevention/tobacco_control/vending_machine_guide.htm"
     }
   ],
   "updatePolicy": "Add an entry only after linking the directly applicable primary statute or government agency source. Recheck all entries when material changes are identified."
