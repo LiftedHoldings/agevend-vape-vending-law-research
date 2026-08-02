@@ -11,6 +11,7 @@ The manifest currently contains:
 - The FDA Tobacco 21 federal retailer baseline.
 - California Business and Professions Code section 22960.
 - Florida Statutes section 569.37.
+- Arizona Revised Statutes section 36-798.02.
 
 Each entry links to the issuing government source. The text on AgeVend.com explains why a state provision cannot be read as a substitute for the federal baseline or a local review.
 
