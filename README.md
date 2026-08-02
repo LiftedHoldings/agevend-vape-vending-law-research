@@ -14,6 +14,9 @@ The manifest currently contains:
 - Arizona Revised Statutes section 36-798.02.
 - Texas Health and Safety Code section 161.086.
 - New York Public Health Law section 1399-dd and the New York State Department of Health vending-machine guide.
+- Ohio Revised Code section 2927.02.
+- Louisiana Revised Statutes section 26:910.
+- Maine Title 22 sections 1551 and 1553-A.
 
 Each entry links to the issuing government source. The text on AgeVend.com explains why a state provision cannot be read as a substitute for the federal baseline or a local review.
 
