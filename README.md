@@ -17,6 +17,9 @@ The manifest currently contains:
 - Ohio Revised Code section 2927.02.
 - Louisiana Revised Statutes section 26:910.
 - Maine Title 22 sections 1551 and 1553-A.
+- Illinois 720 ILCS 675/1.
+- Georgia Senate Bill 375's signed act, alongside the instruction to verify the current code and agency rules.
+- Colorado Revised Statutes Title 44, section 44-7-103.
 
 Each entry links to the issuing government source. The text on AgeVend.com explains why a state provision cannot be read as a substitute for the federal baseline or a local review.
 
