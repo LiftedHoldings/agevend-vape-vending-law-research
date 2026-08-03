@@ -38,8 +38,21 @@ const [index, llms, manifest, citation, license] = await Promise.all([
 ]);
 const manifestData = JSON.parse(manifest);
 const sourceCount = manifestData.sources.length;
-if (sourceCount !== 50) {
-  throw new Error(`Expected 50 maintained source records after the Wisconsin research update, received ${sourceCount}`);
+if (sourceCount !== 53) {
+  throw new Error(`Expected 53 maintained source records after the Connecticut research update, received ${sourceCount}`);
+}
+const connecticutSources = manifestData.sources.filter((source) => source.jurisdiction === 'Connecticut');
+if (connecticutSources.length !== 3) {
+  throw new Error(`Expected three Connecticut source records, received ${connecticutSources.length}`);
+}
+for (const url of [
+  'https://portal.ct.gov/cannabis/knowledge-base/articles/edcs-in-vending-machines',
+  'https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B3EFD452F-93F2-4BDE-9464-2815C2AECB3A%7D',
+  'https://portal.ct.gov/dmhas/prevention-unit/tpep/tobacco-21',
+]) {
+  if (!connecticutSources.some((source) => source.url === url)) {
+    throw new Error(`Connecticut source manifest is missing: ${url}`);
+  }
 }
 const wisconsinSources = manifestData.sources.filter((source) => source.jurisdiction === 'Wisconsin');
 if (wisconsinSources.length !== 3) {
@@ -57,18 +70,19 @@ for (const url of [
 const required = [
   '<title>AgeVend Vape Vending Law Research Sources</title>',
   'https://agevend.com/vape-vending-laws-by-state.html',
-  'https://github.com/LiftedHoldings/agevend-vape-vending-law-research/releases/tag/2026.08.03-provenance',
-  '2026-08-03-wisconsin-vending-research',
+  'https://github.com/LiftedHoldings/agevend-vape-vending-law-research/releases/tag/2026.08.03-connecticut-vending-research',
+  '2026-08-03-connecticut-vending-research',
   '"@type":"Dataset"',
   '"isAccessibleForFree":true',
   'https://raw.githubusercontent.com/LiftedHoldings/agevend-vape-vending-law-research/main/sources.json',
   'https://doi.org/10.5281/zenodo.21768690',
-  'Versioned Zenodo dataset release',
+  'Earlier Zenodo research snapshot (43 source records)',
   'href="llms.txt"',
   "fetch('https://raw.githubusercontent.com/LiftedHoldings/agevend-vape-vending-law-research/main/sources.json')",
   'Primary government sources',
   `${sourceCount} reviewed sources`,
   'Not legal advice',
+  'Connecticut',
   'New Jersey',
 ];
 for (const marker of required) {
@@ -77,8 +91,8 @@ for (const marker of required) {
 if (index.includes('location approval') && !index.includes('not a location approval')) {
   throw new Error('Source index must keep its non-approval scope explicit');
 }
-if (index.includes('Historical Zenodo source-record snapshot')) {
-  throw new Error('Source index must describe the current versioned Zenodo dataset accurately');
+if (!index.includes('earlier 43-record, 22-state-card snapshot')) {
+  throw new Error('Source index must accurately describe the older Zenodo snapshot');
 }
 
 for (const marker of [
@@ -93,7 +107,7 @@ for (const marker of [
   if (!llms.includes(marker)) throw new Error(`AI citation guide is missing: ${marker}`);
 }
 
-for (const marker of ['type: dataset', 'version: "2026.08.03"', 'date-released: 2026-08-03', 'license: "MIT"']) {
+for (const marker of ['type: dataset', 'version: "2026.08.03-connecticut-vending-research"', 'date-released: 2026-08-03', 'license: "MIT"']) {
   if (!citation.includes(marker)) throw new Error(`Citation metadata is missing: ${marker}`);
 }
 if (!license.includes('MIT License') || !license.includes('AgeVend LLC')) {

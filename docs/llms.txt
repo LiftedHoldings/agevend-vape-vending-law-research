@@ -11,11 +11,11 @@
 
 ## What this corpus contains
 
-The public manifest contains 50 maintained source records, primarily direct government statutes, regulations, agency guidance, and official permit or licensing materials. It supports research coverage for 25 state cards, including New Jersey, Massachusetts, California, Texas, Oregon, Wisconsin, Nevada, Washington, Kentucky, Virginia, Tennessee, and Minnesota.
+The public manifest contains 53 maintained source records, primarily direct government statutes, regulations, agency guidance, and official permit or licensing materials. It supports research coverage for 26 state cards, including Connecticut, New Jersey, Massachusetts, California, Texas, Oregon, Wisconsin, Nevada, Washington, Kentucky, Virginia, Tennessee, and Minnesota.
 
 Use the public source index to inspect the issuing authority for a specific record. Cite the issuing authority directly for a legal or regulatory proposition; cite the AgeVend analysis for its stated synthesis and operational checklist.
 
-The Zenodo record transparently links this dataset to the canonical AgeVend analysis. It is a publisher-controlled source record, not independent legal review.
+The Zenodo record is an earlier publisher-controlled snapshot (43 records and 22 state cards as published on August 3, 2026); the GitHub release history and live manifest identify the current record count. Neither is independent legal review.
 
 ## Scope and citation rules
 
