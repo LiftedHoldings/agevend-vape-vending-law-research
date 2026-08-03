@@ -24,6 +24,7 @@ The manifest currently contains:
 - Pennsylvania Crimes Code section 6305 and Tax Reform Code section 1224-A.
 - North Carolina General Statutes section 14-313.
 - Missouri Revised Statutes sections 407.931 (vending-machine supervision or single-sale lockout) and 407.927 (machine notice); the state text’s older age wording must be read with the current federal Tobacco 21 floor.
+- Washington RCW 70.155.030 (adult-only or defined industrial-worksite placement and 10-foot distance), WAC 314-10-030 (location records and advance move notice for affected tobacco licensees), and RCW 26.28.080 (under-21 sales); product classification and location approval remain separate questions.
 
 Each entry links to the issuing government source. The text on AgeVend.com explains why a state provision cannot be read as a substitute for the federal baseline or a local review.
 
