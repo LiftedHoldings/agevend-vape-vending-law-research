@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "AgeVend vape vending law research sources",
-  "version": "2026-08-02-kentucky",
+  "version": "2026-08-02-virginia",
   "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
   "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
   "sources": [
@@ -193,6 +193,27 @@
       "title": "103 KAR 41:040",
       "topic": "Current cigarette-machine license-display rule and a separately identified proposed amendment concerning tobacco and vapor-product machine operators; proposal status must not be treated as effective law",
       "url": "https://apps.legislature.ky.gov/Law/kar/titles/103/041/040/"
+    },
+    {
+      "jurisdiction": "Virginia",
+      "authority": "Virginia Law / Virginia General Assembly",
+      "title": "Virginia Code section 18.2-371.2",
+      "topic": "Current retail-tobacco-product vending-machine prohibition, current definitions that include electronic smoking devices and nicotine-vapor products, and a separately displayed version effective October 1, 2026; neither version should be read as product or location approval",
+      "url": "https://law.lis.virginia.gov/vacode/title18.2/chapter8/section18.2-371.2/"
+    },
+    {
+      "jurisdiction": "Virginia",
+      "authority": "Virginia Law / Virginia General Assembly",
+      "title": "Virginia Code section 58.1-1021.01",
+      "topic": "Current nicotine-vapor-product definition in the tobacco-tax article; classification must be read in the context of the applicable prohibition and product requirements",
+      "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter10/section58.1-1021.01/"
+    },
+    {
+      "jurisdiction": "Virginia",
+      "authority": "Virginia Law / Virginia General Assembly",
+      "title": "Virginia Code Title 59.1, Chapter 23.2",
+      "topic": "Liquid nicotine and nicotine-vapor-product directory, retail-sale condition, and current/future October 1, 2026 statutory versions; directory status is separate from the vending-machine prohibition",
+      "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter23.2/"
     }
   ],
   "updatePolicy": "Add an entry only after linking the directly applicable primary statute or government agency source. Recheck all entries when material changes are identified."
