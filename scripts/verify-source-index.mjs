@@ -19,7 +19,7 @@ const sourceCount = JSON.parse(manifest).sources.length;
 const required = [
   '<title>AgeVend Vape Vending Law Research Sources</title>',
   'https://agevend.com/vape-vending-laws-by-state.html',
-  "fetch('sources.json')",
+  "fetch('https://raw.githubusercontent.com/LiftedHoldings/agevend-vape-vending-law-research/main/sources.json')",
   'Primary government sources',
   `${sourceCount} reviewed sources`,
   'Not legal advice',
