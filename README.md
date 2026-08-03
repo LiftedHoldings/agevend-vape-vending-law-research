@@ -13,6 +13,7 @@ The manifest currently contains:
 - Florida Statutes section 569.37.
 - Arizona Revised Statutes section 36-798.02.
 - Texas Health and Safety Code section 161.086.
+- Massachusetts General Laws chapter 64C, section 2 (vending-machine licensing and display), chapter 270, section 6 (tobacco-product scope and under-21 sales), and 940 CMR 21 (adult-only alcohol-licensed facility and employee-controlled vending-machine conditions).
 - New York Public Health Law section 1399-dd and the New York State Department of Health vending-machine guide.
 - Ohio Revised Code section 2927.02.
 - Louisiana Revised Statutes section 26:910.
