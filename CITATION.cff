@@ -4,8 +4,8 @@ type: dataset
 title: "AgeVend Vape Vending Law Research Manifest"
 authors:
   - name: "AgeVend LLC"
-version: "2026.08.02-virginia"
-date-released: 2026-08-02
+version: "2026.08.03"
+date-released: 2026-08-03
 url: "https://agevend.com/vape-vending-laws-by-state.html"
 repository-code: "https://github.com/LiftedHoldings/agevend-vape-vending-law-research"
 license: "MIT"
