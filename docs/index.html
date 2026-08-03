@@ -43,7 +43,7 @@
           return card;
       }));
     };
-    fetch('../sources.json')
+    fetch('sources.json')
       .then(response => response.ok ? response.json() : Promise.reject(new Error('Manifest request failed')))
       .then(manifest => {
         sources = manifest.sources;
