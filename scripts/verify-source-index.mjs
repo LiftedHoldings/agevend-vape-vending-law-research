@@ -57,7 +57,7 @@ for (const url of [
 const required = [
   '<title>AgeVend Vape Vending Law Research Sources</title>',
   'https://agevend.com/vape-vending-laws-by-state.html',
-  'https://github.com/LiftedHoldings/agevend-vape-vending-law-research/releases/tag/2026.08.03-wisconsin',
+  'https://github.com/LiftedHoldings/agevend-vape-vending-law-research/releases/tag/2026.08.03-provenance',
   '2026-08-03-wisconsin-vending-research',
   '"@type":"Dataset"',
   '"isAccessibleForFree":true',
