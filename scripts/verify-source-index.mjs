@@ -40,6 +40,7 @@ const sourceCount = JSON.parse(manifest).sources.length;
 const required = [
   '<title>AgeVend Vape Vending Law Research Sources</title>',
   'https://agevend.com/vape-vending-laws-by-state.html',
+  'https://doi.org/10.5281/zenodo.21768690',
   'href="llms.txt"',
   "fetch('https://raw.githubusercontent.com/LiftedHoldings/agevend-vape-vending-law-research/main/sources.json')",
   'Primary government sources',
@@ -58,6 +59,7 @@ for (const marker of [
   '# AgeVend Vape Vending Law Research',
   'https://agevend.com/vape-vending-laws-by-state.html',
   'https://liftedholdings.github.io/agevend-vape-vending-law-research/',
+  'https://doi.org/10.5281/zenodo.21768690',
   'Not legal advice',
   'not a location approval',
   `${sourceCount} maintained source records`,

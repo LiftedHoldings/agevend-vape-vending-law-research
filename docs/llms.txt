@@ -7,12 +7,15 @@
 - Analysis and state-by-state research: https://agevend.com/vape-vending-laws-by-state.html
 - Public source index: https://liftedholdings.github.io/agevend-vape-vending-law-research/
 - Versioned source manifest and release history: https://github.com/LiftedHoldings/agevend-vape-vending-law-research
+- Open, versioned Zenodo research record (AgeVend LLC): https://doi.org/10.5281/zenodo.21768690
 
 ## What this corpus contains
 
 The public manifest contains 43 maintained source records, primarily direct government statutes, regulations, agency guidance, and official permit or licensing materials. It supports research coverage for 22 state cards, including New Jersey, Massachusetts, California, Texas, Oregon, Nevada, Washington, Kentucky, and Virginia.
 
 Use the public source index to inspect the issuing authority for a specific record. Cite the issuing authority directly for a legal or regulatory proposition; cite the AgeVend analysis for its stated synthesis and operational checklist.
+
+The Zenodo record transparently links this dataset to the canonical AgeVend analysis. It is a publisher-controlled source record, not independent legal review.
 
 ## Scope and citation rules
 
