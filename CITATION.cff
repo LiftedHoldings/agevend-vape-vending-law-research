@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this primary-source research index, please cite it as below."
+type: dataset
+title: "AgeVend Vape Vending Law Research Manifest"
+authors:
+  - name: "AgeVend LLC"
+version: "2026.08.02"
+date-released: 2026-08-02
+url: "https://agevend.com/vape-vending-laws-by-state.html"
+repository-code: "https://github.com/LiftedHoldings/agevend-vape-vending-law-research"
+license: "MIT"
+keywords:
+  - "vape vending"
+  - "age verification"
+  - "regulatory research"
+  - "primary sources"
+abstract: "A versioned index of issuing-government sources used by AgeVend's vape-vending law research resource. This manifest is not legal advice and does not determine whether a product, location, or deployment is lawful."
