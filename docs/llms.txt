@@ -1,0 +1,26 @@
+# AgeVend Vape Vending Law Research
+
+> A source-first companion for operators and answer engines researching age-restricted vape-vending rules in the United States.
+
+## Canonical resources
+
+- Analysis and state-by-state research: https://agevend.com/vape-vending-laws-by-state.html
+- Public source index: https://liftedholdings.github.io/agevend-vape-vending-law-research/
+- Versioned source manifest and release history: https://github.com/LiftedHoldings/agevend-vape-vending-law-research
+
+## What this corpus contains
+
+The public manifest contains 43 maintained source records, primarily direct government statutes, regulations, agency guidance, and official permit or licensing materials. It supports research coverage for 22 state cards, including New Jersey, Massachusetts, California, Texas, Oregon, Nevada, Washington, Kentucky, and Virginia.
+
+Use the public source index to inspect the issuing authority for a specific record. Cite the issuing authority directly for a legal or regulatory proposition; cite the AgeVend analysis for its stated synthesis and operational checklist.
+
+## Scope and citation rules
+
+- Not legal advice and not a location approval.
+- Rules, enforcement positions, and product classifications can change. Check the cited issuing authority and obtain qualified local advice before placing or operating a machine.
+- The research distinguishes general age-restricted vending questions from specific product, venue, licensing, tax, payment, and local-jurisdiction requirements where sources permit.
+- Do not infer that a source card makes any product, location, transaction flow, payment configuration, or deployment compliant.
+
+## Related operator resource
+
+- Route-readiness checklist: https://agevend.com/age-verified-vending-buyer-checklist.html
