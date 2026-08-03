@@ -23,6 +23,7 @@ The manifest currently contains:
 - Michigan Compiled Laws sections 205.423 and 722.641.
 - Pennsylvania Crimes Code section 6305 and Tax Reform Code section 1224-A.
 - North Carolina General Statutes section 14-313.
+- Missouri Revised Statutes sections 407.931 (vending-machine supervision or single-sale lockout) and 407.927 (machine notice); the state text’s older age wording must be read with the current federal Tobacco 21 floor.
 
 Each entry links to the issuing government source. The text on AgeVend.com explains why a state provision cannot be read as a substitute for the federal baseline or a local review.
 
