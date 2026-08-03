@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "AgeVend vape vending law research sources",
-  "version": "2026-08-02-washington",
+  "version": "2026-08-02-kentucky",
   "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
   "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
   "sources": [
@@ -172,6 +172,27 @@
       "title": "RCW 26.28.080",
       "topic": "Under-21 sale prohibition for tobacco, alternative nicotine, and vapor products; exact product classification and vending-placement scope require separate review",
       "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=26.28.080"
+    },
+    {
+      "jurisdiction": "Kentucky",
+      "authority": "Kentucky Legislative Research Commission",
+      "title": "KRS 438.315",
+      "topic": "Under-21 vending-machine sale and purchase prohibition for tobacco products, alternative nicotine products, and vapor products; location and operational conditions require review of the live statutory text",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49835"
+    },
+    {
+      "jurisdiction": "Kentucky",
+      "authority": "Kentucky Legislative Research Commission",
+      "title": "KRS 138.130",
+      "topic": "Current tax-code definitions for vapor products and vending-machine operators, including operators of machines containing cigarettes, tobacco products, vapor products, or a combination",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57928"
+    },
+    {
+      "jurisdiction": "Kentucky",
+      "authority": "Kentucky Administrative Regulations",
+      "title": "103 KAR 41:040",
+      "topic": "Current cigarette-machine license-display rule and a separately identified proposed amendment concerning tobacco and vapor-product machine operators; proposal status must not be treated as effective law",
+      "url": "https://apps.legislature.ky.gov/Law/kar/titles/103/041/040/"
     }
   ],
   "updatePolicy": "Add an entry only after linking the directly applicable primary statute or government agency source. Recheck all entries when material changes are identified."
