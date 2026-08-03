@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "AgeVend vape vending law research sources",
-  "version": "2026-08-03-texas-vending-permits",
+  "version": "2026-08-03-oregon-vending-research",
   "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
   "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
   "sources": [
@@ -81,6 +81,20 @@
       "title": "Texas Sales and Use Tax Frequently Asked Questions: Electronic Cigarettes",
       "topic": "E-cigarette retailer permit requirement for the entire commercial business location when selling through a vending machine",
       "url": "https://comptroller.texas.gov/taxes/sales/faq/e-cigarettes.php"
+    },
+    {
+      "jurisdiction": "Oregon",
+      "authority": "Oregon Legislative Assembly",
+      "title": "Oregon Revised Statutes section 167.780",
+      "topic": "Tobacco-product and inhalant-delivery-system vending-machine definition, permanently under-21-excluded establishment exception, and daily violation consequence",
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors167.html"
+    },
+    {
+      "jurisdiction": "Oregon",
+      "authority": "Oregon Department of Revenue",
+      "title": "Statewide Tobacco Retail License",
+      "topic": "Retail licensing for tobacco and inhalant-delivery-system sales, including the need to confirm the responsible state or local licensing program",
+      "url": "https://www.oregon.gov/dor/programs/businesses/pages/statewide-tobacco-retail-license.aspx"
     },
     {
       "jurisdiction": "New York",
