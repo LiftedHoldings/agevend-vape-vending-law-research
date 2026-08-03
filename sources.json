@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "AgeVend vape vending law research sources",
-  "version": "2026-08-03-oregon-vending-research",
+  "version": "2026-08-03-massachusetts-vending-research",
   "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
   "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
   "sources": [
@@ -95,6 +95,27 @@
       "title": "Statewide Tobacco Retail License",
       "topic": "Retail licensing for tobacco and inhalant-delivery-system sales, including the need to confirm the responsible state or local licensing program",
       "url": "https://www.oregon.gov/dor/programs/businesses/pages/statewide-tobacco-retail-license.aspx"
+    },
+    {
+      "jurisdiction": "Massachusetts",
+      "authority": "Massachusetts General Court",
+      "title": "General Laws chapter 64C, section 2",
+      "topic": "Vending-machine-operator licensing; treatment of each tobacco-product vending machine as a retail place of business; retailer-license and machine marker requirements",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64C/Section2"
+    },
+    {
+      "jurisdiction": "Massachusetts",
+      "authority": "Massachusetts General Court",
+      "title": "General Laws chapter 270, section 6",
+      "topic": "Tobacco-product definition that includes electronic cigarettes and electronic nicotine-delivery systems, components, parts, and accessories; under-21 sale prohibition",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter270/Section6"
+    },
+    {
+      "jurisdiction": "Massachusetts",
+      "authority": "Massachusetts Office of the Attorney General",
+      "title": "940 CMR 21: Sales and Distribution of Cigarettes, Smokeless Tobacco Products, and Electronic Smoking Devices in Massachusetts",
+      "topic": "Adult-only alcohol-licensed retail-facility condition and employee-controlled, noncontinuous lock-out and observable-purchase conditions for vending machines",
+      "url": "https://www.mass.gov/doc/940-cmr-21-sales-and-distribution-of-cigarettes-smokeless-tobacco-products-and-electronic-smoking-devices-in-massachusetts/download"
     },
     {
       "jurisdiction": "New York",
