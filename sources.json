@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "AgeVend vape vending law research sources",
-  "version": "2026-08-03-new-jersey-vending-research",
+  "version": "2026-08-03-tennessee-vending-research",
   "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
   "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
   "sources": [
@@ -305,6 +305,13 @@
       "title": "Virginia Code Title 59.1, Chapter 23.2",
       "topic": "Liquid nicotine and nicotine-vapor-product directory, retail-sale condition, and current/future October 1, 2026 statutory versions; directory status is separate from the vending-machine prohibition",
       "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter23.2/"
+    },
+    {
+      "jurisdiction": "Tennessee",
+      "authority": "Tennessee Department of Agriculture",
+      "title": "Tennessee Code Annotated sections 39-17-1501–1511 (2024 agriculture resource)",
+      "topic": "Vapor-product vending-machine location, supervision, token, after-hours, proof-of-age, enforcement, and retail-signage provisions; the federal Tobacco 21 vending baseline remains separately controlling",
+      "url": "https://www.tn.gov/content/dam/tn/agriculture/documents/tobacco/2024/TCA%2039-17-1501-1511%20HM%204.8.2024.pdf"
     }
   ],
   "updatePolicy": "Add an entry only after linking the directly applicable primary statute or government agency source. Recheck all entries when material changes are identified."
