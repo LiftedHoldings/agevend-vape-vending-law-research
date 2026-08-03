@@ -4,6 +4,14 @@ This repository is a small, machine-readable citation companion for the [AgeVend
 
 It is not legal advice, a 50-state survey, or an approval of any product, machine, or location. Laws, agency guidance, local rules, product authorizations, licensing, venue terms, and payment-program rules can change. Confirm the real product and street address with qualified counsel and the relevant authorities before operating.
 
+## Public records
+
+- [Canonical AgeVend analysis](https://agevend.com/vape-vending-laws-by-state.html)
+- [Browsable source index](https://liftedholdings.github.io/agevend-vape-vending-law-research/)
+- [Versioned Zenodo record (DOI: 10.5281/zenodo.21768690)](https://doi.org/10.5281/zenodo.21768690)
+
+The Zenodo record is published by AgeVend LLC and identifies this repository’s research dataset as documented by the canonical analysis. It is a transparent citation record, not independent legal review or a location approval.
+
 ## Current reviewed coverage
 
 The manifest currently contains:
