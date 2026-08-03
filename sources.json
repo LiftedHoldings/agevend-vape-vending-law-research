@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "AgeVend vape vending law research sources",
-  "version": "2026-08-03-california-definition",
+  "version": "2026-08-03-nevada",
   "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
   "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
   "sources": [
@@ -25,6 +25,20 @@
       "title": "Business and Professions Code section 22950.5",
       "topic": "Division definition of tobacco product, including electronic devices that deliver nicotine or vaporized liquids and components, parts, or accessories",
       "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=22950.5"
+    },
+    {
+      "jurisdiction": "Nevada",
+      "authority": "Nevada Legislature",
+      "title": "Nevada Revised Statutes Chapter 202, sections 202.2493 and 202.2494",
+      "topic": "Cigarette vending-machine public-area restriction, coin-operated machine limitation, and related tobacco, vapor, alternative-nicotine, and nicotine-product sale/display provisions",
+      "url": "https://www.leg.state.nv.us/nrs/nrs-202.html"
+    },
+    {
+      "jurisdiction": "Nevada",
+      "authority": "Nevada Legislature",
+      "title": "Nevada Revised Statutes Chapter 370, sections 370.054 and 370.567",
+      "topic": "Vapor-product definition and separate tobacco retail-dealer and cigarette vending-machine-operator licensing provisions",
+      "url": "https://www.leg.state.nv.us/nrs/nrs-370.html"
     },
     {
       "jurisdiction": "Florida",
