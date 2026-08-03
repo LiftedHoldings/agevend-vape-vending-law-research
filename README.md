@@ -25,6 +25,7 @@ The manifest currently contains:
 - North Carolina General Statutes section 14-313.
 - Missouri Revised Statutes sections 407.931 (vending-machine supervision or single-sale lockout) and 407.927 (machine notice); the state text’s older age wording must be read with the current federal Tobacco 21 floor.
 - Washington RCW 70.155.030 (adult-only or defined industrial-worksite placement and 10-foot distance), WAC 314-10-030 (location records and advance move notice for affected tobacco licensees), and RCW 26.28.080 (under-21 sales); product classification and location approval remain separate questions.
+- Kentucky KRS 438.315 (under-21 vending prohibition with placement and operational conditions), KRS 138.130 (current vapor-product and vending-machine-operator definitions), and 103 KAR 41:040 (current cigarette-machine display rule plus a separately labelled proposed update); a proposal is not an effective rule.
 
 Each entry links to the issuing government source. The text on AgeVend.com explains why a state provision cannot be read as a substitute for the federal baseline or a local review.
 
