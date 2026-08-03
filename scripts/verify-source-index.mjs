@@ -63,6 +63,7 @@ const required = [
   '"isAccessibleForFree":true',
   'https://raw.githubusercontent.com/LiftedHoldings/agevend-vape-vending-law-research/main/sources.json',
   'https://doi.org/10.5281/zenodo.21768690',
+  'Versioned Zenodo dataset release',
   'href="llms.txt"',
   "fetch('https://raw.githubusercontent.com/LiftedHoldings/agevend-vape-vending-law-research/main/sources.json')",
   'Primary government sources',
@@ -75,6 +76,9 @@ for (const marker of required) {
 }
 if (index.includes('location approval') && !index.includes('not a location approval')) {
   throw new Error('Source index must keep its non-approval scope explicit');
+}
+if (index.includes('Historical Zenodo source-record snapshot')) {
+  throw new Error('Source index must describe the current versioned Zenodo dataset accurately');
 }
 
 for (const marker of [
