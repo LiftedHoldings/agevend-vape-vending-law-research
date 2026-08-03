@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "AgeVend vape vending law research sources",
-  "version": "2026-08-03-wisconsin-vending-research",
+  "version": "2026-08-03-connecticut-vending-research",
   "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
   "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
   "sources": [
@@ -53,6 +53,27 @@
       "title": "Arizona Revised Statutes section 36-798.02",
       "topic": "Tobacco-product vending-machine location limits, signage, and local-restriction authority; product classification requires separate review",
       "url": "https://www.azleg.gov/ars/36/00798-02.htm"
+    },
+    {
+      "jurisdiction": "Connecticut",
+      "authority": "Connecticut Department of Consumer Protection, Cannabis Control Division",
+      "title": "Can e-cigarettes and other vape products be sold in a vending machine?",
+      "topic": "Agency guidance directs operators to current state statutes, municipal rules, and the Department of Revenue Services; it does not provide product, machine, or location preclearance",
+      "url": "https://portal.ct.gov/cannabis/knowledge-base/articles/edcs-in-vending-machines"
+    },
+    {
+      "jurisdiction": "Connecticut",
+      "authority": "Connecticut eRegulations System",
+      "title": "Regulations of Connecticut State Agencies section 12-289-1",
+      "topic": "Separate license requirement for each cigarette vending machine, required displayed license, associated premises address, and location-change notice; cigarette-machine rules do not by themselves determine vape-product eligibility",
+      "url": "https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B3EFD452F-93F2-4BDE-9464-2815C2AECB3A%7D"
+    },
+    {
+      "jurisdiction": "Connecticut",
+      "authority": "Connecticut Department of Mental Health and Addiction Services",
+      "title": "Tobacco 21",
+      "topic": "State under-21 retail-sale guidance covering tobacco, electronic cigarettes, and vapor products; customer age remains separate from product, placement, and licensing review",
+      "url": "https://portal.ct.gov/dmhas/prevention-unit/tpep/tobacco-21"
     },
     {
       "jurisdiction": "Texas",
