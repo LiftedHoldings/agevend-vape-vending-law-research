@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "AgeVend vape vending law research sources",
-  "version": "2026-08-03-nevada",
+  "version": "2026-08-03-texas-vending-permits",
   "canonicalResearchPage": "https://agevend.com/vape-vending-laws-by-state.html",
   "scope": "Primary-source research links only. Not legal advice, a location approval, or a complete state-law survey.",
   "sources": [
@@ -60,6 +60,27 @@
       "title": "Health and Safety Code section 161.086",
       "topic": "Vending-machine restrictions for cigarettes, e-cigarettes, and tobacco products, with specified adult-only premises exceptions",
       "url": "https://statutes.capitol.texas.gov/docs/hs/pdf/hs.161.pdf"
+    },
+    {
+      "jurisdiction": "Texas",
+      "authority": "Texas Comptroller of Public Accounts",
+      "title": "E-Cigarette Retailer Permit Frequently Asked Questions",
+      "topic": "Owner-of-location, retailer-permit, seller-of-record, and adult-only-access conditions for e-cigarette vending machines",
+      "url": "https://comptroller.texas.gov/taxes/tobacco/faq-e-cig-permit.php"
+    },
+    {
+      "jurisdiction": "Texas",
+      "authority": "Texas Comptroller of Public Accounts",
+      "title": "Cigarettes, E-Cigarette and Tobacco Products Regulation Frequently Asked Questions",
+      "topic": "Why a mechanical lockout or remote control does not satisfy the customer-inaccessibility requirement for covered vending machines",
+      "url": "https://comptroller.texas.gov/taxes/tobacco/faq-reg.php"
+    },
+    {
+      "jurisdiction": "Texas",
+      "authority": "Texas Comptroller of Public Accounts",
+      "title": "Texas Sales and Use Tax Frequently Asked Questions: Electronic Cigarettes",
+      "topic": "E-cigarette retailer permit requirement for the entire commercial business location when selling through a vending machine",
+      "url": "https://comptroller.texas.gov/taxes/sales/faq/e-cigarettes.php"
     },
     {
       "jurisdiction": "New York",
